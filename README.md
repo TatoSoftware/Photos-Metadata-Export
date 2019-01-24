@@ -1,6 +1,5 @@
 # Photos-Metadata-Export
-Export Photo Metadata from the Apple Photos App on a MAC
-Extract metadata from a selection of Apple Photos  
+Export Photo Metadata from the Apple Photos App on a MAC 
 
 	Write The Metadata Into The "Apple Script Output" file in comma delimited format
 	each photo can generate multiple rows in the output file, one for each keyword
